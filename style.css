@@ -1,0 +1,25 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header a{
+    display: inline-block;
+    position: right;
+    color: black;
+}
+button{
+    background-color: #f2849e;
+    color: white;
+    padding: 10px 60px;
+}
+.fa-star{
+    color: #f8b732;
+}
+.fa-star-half-alt{
+    color: #f8b732;
+}
+button:hover{
+    background-color: #ec4b75;
+}
